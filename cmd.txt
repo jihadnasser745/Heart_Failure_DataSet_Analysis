@@ -1,0 +1,1 @@
+dot -Tpng heart_failure_clinical_records_dataset.dot -o heart_failure_clinical_records_dataset.png
